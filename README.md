@@ -1,5 +1,5 @@
 llocates your assets without you having to babysit anything.
 it bundles liquidity from users and deploys it into multiple yield-producing protocols;
 auto-compounds rewards, rebalances positions, and optimizes APY;
-reduces gas costs by doing strategy execution on behalf of all depositors;
+reduces gas costs by doing strategy execution on behalf of 
 lets users earn passive yield without constantly chasing new farms.
