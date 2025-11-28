@@ -3,3 +3,4 @@ it bundles liquidity from users and deploys it into multiple yield-producing pro
 auto-compounds rewards,  positions, and optimizes APY;
 reduces gas costs by doing strategy execution on behalf of 
 lets users earn passive yield without constantly chasing new farms.
+it bundles liquidity from users and deploys it into multiple yield-producing protocols;
