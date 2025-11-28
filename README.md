@@ -1,5 +1,2 @@
 EXPLORER_TEMPLATES = {
-    "aztec": {
-        "tx": "https://your-aztec-explorer/tx/{id}",
-        "address": "https://your-aztec-explorer/address/{id}",
-        "block": "https://your-aztec-explorer/block/{id}",
+  A yield aggregator is basically an automated farmer for your crypto — a system that roams through DeFi strategies, finds the most efficient ones, and reallocates your assets without you having to babysit anything.
